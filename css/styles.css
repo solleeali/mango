@@ -1,0 +1,33 @@
+
+/****************************** TAG SELECTORS ******************************/
+h1 {
+  color: black;
+  background-color: orange;
+  font-size: 100px;
+}
+
+h1:hover {
+  background-color: black;
+  color: orange;
+  font-size: 100px;
+}
+
+img:hover {
+   background-color: gold;
+ }
+
+
+
+/****************************** CLASS SELECTORS ******************************/
+
+.mango {
+  background-color: green;
+}
+
+.broccoli {
+  background-color: red;
+}
+
+
+
+/****************************** id SELECTORS ******************************/
